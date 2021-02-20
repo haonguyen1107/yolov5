@@ -1,0 +1,8 @@
+train: C:\Users\DELL\Desktop\yolov5-master\yolov5-master\implant\images\train  # 128 images
+val: C:\Users\DELL\Desktop\yolov5-master\yolov5-master\implant\images\val  # 128 images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['implant']
